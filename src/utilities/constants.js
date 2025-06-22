@@ -24,3 +24,6 @@ export const playIcon=
 
 export const iIcon=
 "https://media.istockphoto.com/id/1140611970/vector/information-symbol-vector-icon-illustration-information-sign-vector-icon.jpg?s=612x612&w=0&k=20&c=Ib-EtFrBk9aW8C5ZDFdiDwg6-pMga5BEwnYED4CW5KY="
+
+export const CardPoster=
+"https://image.tmdb.org/t/p/w500"
