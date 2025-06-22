@@ -29,6 +29,7 @@
 - Update store with trailer video
 - embedded youtube video and made it autoplay and mute
 - Added custom title and overview to Video title page
+- Build Secondary Container
 
 ## Features
 - Login/Signup
