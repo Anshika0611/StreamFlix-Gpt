@@ -15,6 +15,20 @@
 - update store with user 
 - implemented signout
 - updated our profile
+- Bug fix: Sign up user displayName and profile picture update
+- Bug fix: if user is not logged in redirect /browse to login page and vice-versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcore values to constant files(using const in place of links)
+- Register for TMDB API & crreate an app and get access token
+- Get data from TMDB nowplaying movies list API
+- Custom hook for now playing movies  
+- Create movieSlice
+- Update store with movie data
+- Start making the browse page - Main container and secondary container
+- video bg- fetch trailer video using movie api
+- Update store with trailer video
+- embedded youtube video and made it autoplay and mute
+- Added custom title and overview to Video title page
 
 ## Features
 - Login/Signup
