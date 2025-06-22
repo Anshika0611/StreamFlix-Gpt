@@ -34,7 +34,8 @@
 - Added movie cards
 - TMDB image CDN URL(from basics the link for posters)
 - Created custom hooks for each movie list
-
+- Created custom hook for movie image
+- Added image before video loads
 
 
 ## Features
