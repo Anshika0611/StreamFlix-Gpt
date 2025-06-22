@@ -26,8 +26,8 @@ const Login = () => {
   const handleButtonClick = () => {
     //validate the form data here
      
-     console.log(email.current.value);
-     console.log(password.current.value);
+    //  console.log(email.current.value);
+    //  console.log(password.current.value);
      const nameValue=(!isSignIn)?naam.current.value:""; //if it is sign in, naam will be empty string
      
      

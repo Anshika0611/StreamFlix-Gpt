@@ -30,6 +30,12 @@
 - embedded youtube video and made it autoplay and mute
 - Added custom title and overview to Video title page
 - Build Secondary Container
+- Added movie list to store
+- Added movie cards
+- TMDB image CDN URL(from basics the link for posters)
+- Created custom hooks for each movie list
+
+
 
 ## Features
 - Login/Signup
