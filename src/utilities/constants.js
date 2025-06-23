@@ -25,3 +25,5 @@ export const playIcon=
 
 export const CardPoster=
 "https://image.tmdb.org/t/p/w500"
+
+export const SUPPORTED_LANGUAGES=[{identifier:"en", name:"English"},{identifier:"hindi", name:"Hindi"},{identifier:"french", name:"French"},{identifier:"spanish", name:"Spanish"},{identifier:"german", name:"German"}]

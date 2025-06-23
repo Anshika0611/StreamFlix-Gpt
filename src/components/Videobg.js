@@ -8,7 +8,7 @@ const Videobg = ({movieId}) => {
   useMovieTrailer(movieId)
   useMovieImage(movieId)
   const movieImage=useSelector((store)=>store.movie?.movieImage);
-  console.log(movieImage);
+ 
   
     const [showVideo, setShowVideo] = useState(false);
      // Delay showing the video

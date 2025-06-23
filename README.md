@@ -36,6 +36,9 @@
 - Created custom hooks for each movie list
 - Created custom hook for movie image
 - Added image before video loads
+- GPT search page
+- GPT search bar
+- Made the search bar multi-lingual
 
 
 ## Features
