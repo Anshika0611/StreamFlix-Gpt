@@ -5,9 +5,9 @@ import {BackgroundImage} from "../utilities/constants"
 const GptSearchPage = () => {
   return (
     <div>
-     <div className="absolute -z-10 w-screen min-h-screen bg-cover " style={{ backgroundImage: `url(${BackgroundImage})` }}></div>
+     <div className="absolute -z-10 w-screen min-h-screen bg-cover" style={{ backgroundImage: `url(${BackgroundImage})` }}></div>
         {/* Overlay */}
-        <div className="absolute inset-0 bg-black bg-opacity-30"></div>
+        <div className="absolute inset-0 bg-black bg-opacity-30  pointer-events-none "></div>
       <GptSearchBar/>
       <GptMovieSuggestion/>
     </div>
