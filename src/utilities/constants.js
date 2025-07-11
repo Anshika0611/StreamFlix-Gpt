@@ -27,3 +27,6 @@ export const CardPoster=
 "https://image.tmdb.org/t/p/w500"
 
 export const SUPPORTED_LANGUAGES=[{identifier:"en", name:"English"},{identifier:"hindi", name:"Hindi"},{identifier:"french", name:"French"},{identifier:"spanish", name:"Spanish"},{identifier:"german", name:"German"}]
+
+export const API_KEY=process.env.REACT_APP_API_KEY;
+

@@ -57,7 +57,7 @@ const handleGptSearchClick=()=>{
           <select className='p-2 m-2 bg-gray-800 text-white' onChange={handleLanguageChange}>
             {SUPPORTED_LANGUAGES.map((lang)=>(
             <option key={lang.identifier} value={lang.identifier}>{lang.name}</option>
-            ))}:""
+            ))}:
           </select>
           )}
           <button className='px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-pink-700' onClick={handleGptSearchClick}>

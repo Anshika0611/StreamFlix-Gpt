@@ -39,6 +39,8 @@
 - GPT search page
 - GPT search bar
 - Made the search bar multi-lingual
+- Integrated Gemini to get movie recommendations
+- Used moiveList component again to display the movies in suggestion 
 
 
 ## Features

@@ -1,7 +1,8 @@
 import React from 'react'
 import { CardPoster } from '../utilities/constants'
 
-const MovieCard = ({posterPath}) => {
+const MovieCard = ({posterPath}) => { 
+ 
   return (
     <div>
       <img alt="movie card" src={CardPoster + posterPath} />
