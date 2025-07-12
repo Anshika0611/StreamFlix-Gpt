@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { auth } from "../utilities/firebase";
 import { addUser, removeUser } from '../utilities/userSlice';
-import { Logo, LoggedIcon, SUPPORTED_LANGUAGES } from '../utilities/constants';
+import { LoggedIcon, SUPPORTED_LANGUAGES } from '../utilities/constants';
 import { toggleGptSearchView } from '../utilities/gptSlice';
 import { changeLanguage } from '../utilities/configSlice';
 
@@ -48,7 +48,7 @@ const handleGptSearchClick=()=>{
     <div className="absolute top-0 left-0 flex justify-between items-center w-full px-8 py-4 bg-gradient-to-b from-black z-50">
       <img
         className="w-44"
-        src={Logo}
+        src="/Logo.png"
         alt="Header Logo"
       />
       {user && (
