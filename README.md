@@ -40,7 +40,12 @@
 - GPT search bar
 - Made the search bar multi-lingual
 - Integrated Gemini to get movie recommendations
+- Fetches gptMovieSuggestions from TMDB
+- created gptSlice addded data
 - Used moiveList component again to display the movies in suggestion 
+- Memoization
+- Adding .env file
+- Responsive
 
 
 ## Features

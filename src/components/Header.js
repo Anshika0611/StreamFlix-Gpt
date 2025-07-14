@@ -45,7 +45,7 @@ const handleGptSearchClick=()=>{
   }, [dispatch, navigate]);
 
   return (
-    <div className="absolute top-0 left-0 flex justify-between items-center w-full px-8 py-4 bg-gradient-to-b from-black z-50">
+    <div className="absolute top-0 left-0 flex flex-col md:flex-row sm:flex-row justify-between items-center w-full px-8 py-4 bg-gradient-to-b from-black z-50">
       <img
         className="w-44"
         src="/Logo.png"
